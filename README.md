@@ -1,8 +1,3 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Sebastián, a full-stack developer 👨‍💻 and professor 👨‍🏫</div>  
   
 
